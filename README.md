@@ -19,10 +19,10 @@ This project uses [xmake](https://xmake.io) for building.
 
 ## Credits
 
-This project is based on [the VCI-2025 course framework from Peking University Visual Computing Lab](https://gitee.com/pku-vcl/vci-2025). The core Stable-Fluids implementation was developed independently as part of the coursework.
+This project is based on the course framework[PKU-VCL 2025](https://gitee.com/pku-vcl/vci-2025 "the VCI-2025 course framework from Peking University Visual Computing Lab"), the Peking University Visual Computing Lab. The core Stable-Fluids implementation was developed independently as part of the coursework.
 
 ## Reference
-Jos Stam, "Stable Fluids", SIGGRAPH 1999
+[Jos Stam, "Stable Fluids", SIGGRAPH 1999](https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/ns.pdf)
 
 ```bash
 xmake
