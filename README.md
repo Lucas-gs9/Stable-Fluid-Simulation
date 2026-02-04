@@ -9,8 +9,10 @@ This project implements Jos Stam's Stable-Fluids method for real-time fluid dyna
 ## Features
 
 - **RGB Color Fluid**: Three-channel density fields for vibrant color mixing
+  <img width="515" height="523" alt="rgb_fluid" src="https://github.com/user-attachments/assets/23fdce2c-4392-4a76-8173-08776acc278c" />
 - **Real-time Interaction**: Mouse drag to inject fluid and apply forces
 - **Background Velocity Fields**: Horizontal flow, rising smoke, and vortex presets
+  <img width="516" height="514" alt="vortex" src="https://github.com/user-attachments/assets/9d2fcd3b-d178-4f9f-b903-b99260cd6269" />
 - **Infinite Domain**: Fluid re-enters from opposite boundaries instead of disappearing
 
 ## Build
@@ -24,6 +26,8 @@ This project is based on the course framework from [PKU-VCL 2025](https://gitee.
 ## Reference
 [Jos Stam, "Stable Fluids", SIGGRAPH 1999](https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/ns.pdf)
 
+## Usage
+After installing Xmake, copy these commands to your shell to run the simulation.
 ```bash
 xmake
 xmake run final_project
